@@ -5,9 +5,7 @@
     <JadwalSolat />
     <FiturWebsite />
     <Artikel />
-    <footer class="text-center py-4 bg-light mt-5">
-      <p>&copy; 2024 Masjid Al-Falah. All rights reserved.</p>
-    </footer>
+    <Footer />
   </div>
 </template>
 
@@ -17,6 +15,7 @@ import Banner from './components/Banner.vue';
 import JadwalSolat from './components/JadwalSolat.vue';
 import FiturWebsite from './components/FiturWebsite.vue';
 import Artikel from './components/Artikel.vue';
+import Footer from './components/Footer.vue';
 
 export default {
   components: {
@@ -25,6 +24,7 @@ export default {
     JadwalSolat,
     FiturWebsite,
     Artikel,
+    Footer,
   },
 };
 </script>

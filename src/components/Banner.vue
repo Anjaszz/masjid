@@ -15,6 +15,10 @@
         <div class="carousel-item">
           <img src="/banner1.png" class="d-block w-100" alt="Banner 3">
         </div>
+        <div class="carousel-item">
+          <img src="/banner1.png" class="d-block w-100" alt="Banner 3">
+        </div>
+        
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
