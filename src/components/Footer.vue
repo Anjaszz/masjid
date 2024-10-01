@@ -6,6 +6,7 @@
           <a href="#about">Tentang Kami</a>
           <a href="#contact">Kontak</a>
           <a href="#features">Fitur</a>
+          <a href="#donasi">Donasi</a>
         </div>
         <div class="social-media">
           <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
@@ -38,7 +39,7 @@
   
   <style scoped>
   .footer {
-    background-color: #333;
+    background-color: #50dd63;
     color: white;
     padding: 20px 0;
     text-align: center;
